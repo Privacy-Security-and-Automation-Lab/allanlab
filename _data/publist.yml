@@ -7,9 +7,17 @@
 #   display: Science 374, 608 (2021)
 #  highlight: 1
 #  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
+- title: "The Risks, Benefits, and Consequences of Prepublication Moderation: Evidence from 17 Wikipedia Language Editions"
+  description: "An empirical analysis of the effects of a prepublication review system called FlaggedRevs that was deployed by several Wikipedia language editions using panel data from 17 large Wikipedia editions to test a series of hypotheses related to the effect of the system on activity levels and contribution quality within the affected communities."
+  authors: Chau Tran, Kaylea Champion, Benjamin Mako Hill, Rachel Greenstadt
+  link:
+    url: https://arxiv.org/abs/2202.05548
+    display: CSCW 2022
+  highlight: 0
+
 - title: "'It Feels Like Whack-a-mole': User Experiences of Data Removal from People Search Websites"
   description: People Search Websites aggregate and publicize users’ Personal Identifiable Information (PII), previously sourced from data brokers. This paper presents a qualitative study of the perceptions and experiences of 18 participants who sought information removal by hiring a removal service or requesting removal from the sites.
-  authors: Kejsi Take*, Kevin Gallagher, Andrea Forte, Damon McCoy, Rachel Greenstadt
+  authors: Kejsi Take, Kevin Gallagher, Andrea Forte, Damon McCoy, Rachel Greenstadt
   link: 
     url: https://petsymposium.org/2022/files/papers/issue3/popets-2022-0067.pdf
     display: PETS 2022
@@ -31,6 +39,12 @@
     display: "IMC '21: Proceedings of the 21st ACM Internet Measurement Conference"
   highlight: 0
 
+- title: Are anonymity-seekers just like everybody else? An analysis of contributions to Wikipedia from Tor
+  description: Measurement and comparison of Tor users and other groups of users on Wikipedia
+  authors: Chau Tran; Kaylea Champion; Andrea Forte; Benjamin Mako Hill; Rachel Greenstadt
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9152664
+    display: 2020 IEEE Symposium on Security and Privacy
 
 - title: "'Because... I was told... so much': Linguistic Indicators of Mental Health Status on Twitter."
   description: Evaluating the implications for privacy, by analyzing the performance of different machine learning models in the absence of tweets that talk about mental illnesses.
