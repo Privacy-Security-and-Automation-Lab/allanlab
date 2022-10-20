@@ -10,6 +10,7 @@ Please be patient while we are working on this :)
 We are running this on apache2
 
 After making changes to the site you need to run the following from the psal_website directory to rebuild the site. (This includes adding new pictures and what not)
+If something breaks and you only touched the `_data` folder check the `config.yml` file. In fact before pulling this repo to the site check that the config.yml matches.
 
     bundle exec jekyll clean
     bundle exec jekyll build
