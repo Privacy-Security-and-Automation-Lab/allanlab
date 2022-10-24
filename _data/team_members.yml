@@ -30,13 +30,13 @@
   education1: M.S. Computer Science, Computer Science, New York University (NYU) Tandon School of Engineering
   education2: B.A. Computer Science, American University in Bulgaria
 
-# - name: Cameron Ballard
-#   photo: cameron.jpg
-#   info: PhD Candidate
-#   email: clb478[@]nyu.edu
-#   number_educ: 2
-#   education1: BS Computer Science, NYU Shanghai 2013-2017
-#   education2: MS Computer Science, NYU Tandon 2019-2021
+- name: Chao Tran
+  photo: chau.jpg
+  info: PhD Candidate
+  email: chau.tran[@]nyu.edu
+  number_educ: 2
+  education1: BS Software Engineering, Mississipi State University 2010-2014
+  education2: MS Computer Science, Mississipi State University 2014-2016
 
 - name: Genesis Smothers
   photo: Genesis.jpg
